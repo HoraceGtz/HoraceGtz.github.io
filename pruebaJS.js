@@ -1,0 +1,2 @@
+var nuevaVar = "Texto";
+nuevaVar
